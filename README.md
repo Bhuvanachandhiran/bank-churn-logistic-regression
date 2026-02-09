@@ -48,7 +48,7 @@ bank-churn-logistic-regression/
 ├── churn_logreg_model.pkl                             # Trained model
 ├── scaler.pkl                                         # Fitted scaler
 ├── requirements.txt
-└── README.md                                          # This file
+└── README.md                                          
 
 ---
 
